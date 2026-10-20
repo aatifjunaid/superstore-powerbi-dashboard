@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing sales performance and
 delivery speed for a retail dataset (2015-2018).
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Tools
 Power BI Desktop, Power Query, DAX
